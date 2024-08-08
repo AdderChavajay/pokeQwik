@@ -64,6 +64,7 @@ export default component$(() => {
           >
             Ocultar imagen
           </button>
+          <button class="btn btn-primary">x</button>
         </div>
       </div>
     </>
